@@ -5,7 +5,7 @@
       <v-spacer></v-spacer>
       <v-menu offset-y>
         <template v-slot:activator="{ on, attrs }">
-          <v-btn text v-bind="attrs" v-on="on">Menú</v-btn>
+          <v-btn text @click="navigateTo">Menú</v-btn>
         </template>
         <v-list>
           <v-list-item @click="navigateTo('create')">Crea tu evento</v-list-item>
