@@ -27,6 +27,21 @@ const items = ref([
     image:
       "https://sevilla.abc.es/estilo/bulevarsur/wp-content/uploads/2019/06/tendencia-bengalas-bodas-1024x701.jpg",
   },
+  {
+    image:
+      "https://img.freepik.com/foto-gratis/chica-alto-angulo-posando-flores-piso_23-2149861187.jpg?t=st=1717655588~exp=1717659188~hmac=8040ee9db4734dad352468a2a1435b0db5f16ad74466bc2a09b44f0bdef4ff53&w=740",
+  },
+  {
+    image:
+      "https://img.freepik.com/foto-gratis/amigos-tintinean-vasos-bebida-bar-moderno_1150-18971.jpg?t=st=1717655286~exp=1717658886~hmac=3ddc52f36aca161463f2ace76a09def06001edf2433525db3420fcab7fab58a2&w=740",
+  },
+  {
+    image:
+      " https://img.freepik.com/foto-gratis/tu-mama-horneo-mejor-pastel_329181-7629.jpg?t=st=1717655336~exp=1717658936~hmac=64dbfc3a4ad5a6b441d759a5393a8f4fee54dd261931f9db0e6a345101c07076&w=740",
+  },
+
+
+ 
 ]);
 </script>
 

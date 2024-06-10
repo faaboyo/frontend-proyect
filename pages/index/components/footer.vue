@@ -13,13 +13,17 @@
       </div>
   
       <div class="pt-0">
-        Phasellus feugiat arcu sapien, et iaculis ipsum elementum sit amet. Mauris cursus commodo interdum. Praesent ut risus eget metus luctus accumsan id ultrices nunc. Sed at orci sed massa consectetur dignissim a sit amet dui. Duis commodo vitae velit et faucibus. Morbi vehicula lacinia malesuada. Nulla placerat augue vel ipsum ultrices, cursus iaculis dui sollicitudin. Vestibulum eu ipsum vel diam elementum tempor vel ut orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Somos la empresa líder en organización de eventos en Bolivia. Gracias a nuestras alianzas con las mejores y más responsables empresas del país, puedes planificar cualquier tipo de evento o acontecimiento social desde la comodidad de tu hogar.
+
+En MyEvents, nos encargamos de que todo salga increíble en tu día especial. Relájate y disfruta, nosotros nos ocupamos del resto.
+
+¡Síguenos en nuestras redes sociales y descubre cómo podemos hacer de tu evento un momento inolvidable!
       </div>
   
       <v-divider></v-divider>
   
       <div>
-        {{ new Date().getFullYear() }} — <strong>Vuetify</strong>
+        {{ new Date().getFullYear() }} — <strong>My Events</strong>
       </div>
     </v-footer>
   </template>
@@ -41,5 +45,7 @@
 <style scoped>
 .bg-bone {
   background-color: #f7edd8b2;
+  font-family: "Playfair Display", italic, cursive;
+  font-size: 15px;
 }
 </style>
